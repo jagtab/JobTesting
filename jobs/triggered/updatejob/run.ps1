@@ -1,0 +1,1 @@
+php -f ..\..\..\contrib\util\install\updatejob.php
